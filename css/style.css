@@ -9,7 +9,12 @@
 }
 
 body{
-    color:var(--udred);
+    color:#fefefe;
     margin:1.5em;
     
+}
+
+
+.container {
+    background-color:var(--udred);
 }
